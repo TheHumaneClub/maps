@@ -1,1894 +1,1276 @@
 {
-	"type": "Topology",
-	"arcs": [
-		[
-			[
-				0,
-				605
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-100
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				100
-			]
-		],
-		[
-			[
-				0,
-				498
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-101
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				101
-			]
-		],
-		[
-			[
-				106,
-				654
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-98
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				98
-			]
-		],
-		[
-			[
-				157,
-				757
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-96
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				96
-			]
-		],
-		[
-			[
-				264,
-				757
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-96
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				96
-			]
-		],
-		[
-			[
-				371,
-				757
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-96
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				96
-			]
-		],
-		[
-			[
-				211,
-				857
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-93
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				93
-			]
-		],
-		[
-			[
-				318,
-				857
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-93
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				93
-			]
-		],
-		[
-			[
-				264,
-				955
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-91
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				91
-			]
-		],
-		[
-			[
-				212,
-				654
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-98
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				98
-			]
-		],
-		[
-			[
-				318,
-				654
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-98
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				98
-			]
-		],
-		[
-			[
-				424,
-				654
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-98
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				98
-			]
-		],
-		[
-			[
-				106,
-				549
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-101
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				101
-			]
-		],
-		[
-			[
-				212,
-				549
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-101
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				101
-			]
-		],
-		[
-			[
-				318,
-				549
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-101
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				101
-			]
-		],
-		[
-			[
-				424,
-				549
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-101
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				101
-			]
-		],
-		[
-			[
-				211,
-				441
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-102
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				102
-			]
-		],
-		[
-			[
-				317,
-				441
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-102
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				102
-			]
-		],
-		[
-			[
-				423,
-				441
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-102
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				102
-			]
-		],
-		[
-			[
-				105,
-				331
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-104
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				104
-			]
-		],
-		[
-			[
-				211,
-				331
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-104
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				104
-			]
-		],
-		[
-			[
-				317,
-				331
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-104
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				104
-			]
-		],
-		[
-			[
-				794,
-				781
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-95
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				95
-			]
-		],
-		[
-			[
-				688,
-				679
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-98
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				98
-			]
-		],
-		[
-			[
-				794,
-				679
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-98
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				98
-			]
-		],
-		[
-			[
-				687,
-				574
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-100
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				100
-			]
-		],
-		[
-			[
-				793,
-				574
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-100
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				100
-			]
-		],
-		[
-			[
-				687,
-				467
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-102
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				102
-			]
-		],
-		[
-			[
-				793,
-				467
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-102
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				102
-			]
-		],
-		[
-			[
-				211,
-				220
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-106
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				106
-			]
-		],
-		[
-			[
-				317,
-				220
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-106
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				106
-			]
-		],
-		[
-			[
-				794,
-				168
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-106
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				106
-			]
-		],
-		[
-			[
-				264,
-				107
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-107
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				107
-			]
-		],
-		[
-			[
-				0,
-				168
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-106
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				106
-			]
-		],
-		[
-			[
-				530,
-				549
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-101
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				101
-			]
-		],
-		[
-			[
-				581,
-				654
-			],
-			[
-				100,
-				0
-			],
-			[
-				0,
-				-98
-			],
-			[
-				-100,
-				0
-			],
-			[
-				0,
-				98
-			]
-		]
-	],
-	"transform": {
-		"scale": [
-			0.027959309598015313,
-			0.02572167221468419
-		],
-		"translate": [
-			-10.930770626676427,
-			10.859884155174942
-		]
-	},
-	"objects": {
-		"india-tile21": {
-			"type": "GeometryCollection",
-			"geometries": [
-				{
-					"type": "LineString",
-					"arcs": [
-						0
-					],
-					"properties": {
-						"ST_NM": "Rajasthan",
-						"ISO_CODE": "RJ",
-						"CAT": 1,
-						"HANDLE": 256,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 1
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						1
-					],
-					"properties": {
-						"ST_NM": "Daman and Diu",
-						"ISO_CODE": "DD",
-						"CAT": 2,
-						"HANDLE": 257,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 2
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						2
-					],
-					"properties": {
-						"ST_NM": "Haryana",
-						"ISO_CODE": "HR",
-						"CAT": 3,
-						"HANDLE": 258,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 3
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						3
-					],
-					"properties": {
-						"ST_NM": "Punjab",
-						"ISO_CODE": "PB",
-						"CAT": 4,
-						"HANDLE": 259,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 4
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						4
-					],
-					"properties": {
-						"ST_NM": "Chandigarh",
-						"ISO_CODE": "CH",
-						"CAT": 5,
-						"HANDLE": 260,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 5
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						5
-					],
-					"properties": {
-						"ST_NM": "Uttarakhand",
-						"ISO_CODE": "UK",
-						"CAT": 6,
-						"HANDLE": 261,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 6
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						6
-					],
-					"properties": {
-						"ST_NM": "Himachal Pradesh",
-						"ISO_CODE": "HP",
-						"CAT": 7,
-						"HANDLE": 262,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 7
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						7
-					],
-					"properties": {
-						"ST_NM": "Ladakh",
-						"ISO_CODE": "LA",
-						"CAT": 8,
-						"HANDLE": 263,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 8
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						8
-					],
-					"properties": {
-						"ST_NM": "Jammu and Kashmir",
-						"ISO_CODE": "JK",
-						"CAT": 9,
-						"HANDLE": 264,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 9
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						9
-					],
-					"properties": {
-						"ST_NM": "Delhi",
-						"ISO_CODE": "DL",
-						"CAT": 10,
-						"HANDLE": 265,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 10
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						10
-					],
-					"properties": {
-						"ST_NM": "Uttar Pradesh",
-						"ISO_CODE": "UP",
-						"CAT": 11,
-						"HANDLE": 266,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 11
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						11
-					],
-					"properties": {
-						"ST_NM": "Bihar",
-						"ISO_CODE": "BR",
-						"CAT": 12,
-						"HANDLE": 267,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 12
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						12
-					],
-					"properties": {
-						"ST_NM": "Gujarat",
-						"ISO_CODE": "GJ",
-						"CAT": 13,
-						"HANDLE": 268,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 13
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						13
-					],
-					"properties": {
-						"ST_NM": "Madhya Pradesh",
-						"ISO_CODE": "MP",
-						"CAT": 14,
-						"HANDLE": 269,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 14
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						14
-					],
-					"properties": {
-						"ST_NM": "Chhattisgarh",
-						"ISO_CODE": "CG",
-						"CAT": 15,
-						"HANDLE": 270,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 15
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						15
-					],
-					"properties": {
-						"ST_NM": "Jharkhand",
-						"ISO_CODE": "JH",
-						"CAT": 16,
-						"HANDLE": 271,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 16
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						16
-					],
-					"properties": {
-						"ST_NM": "Maharashtra",
-						"ISO_CODE": "MH",
-						"CAT": 17,
-						"HANDLE": 272,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 17
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						17
-					],
-					"properties": {
-						"ST_NM": "Telangana",
-						"ISO_CODE": "TS",
-						"CAT": 18,
-						"HANDLE": 273,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 18
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						18
-					],
-					"properties": {
-						"ST_NM": "Odisha",
-						"ISO_CODE": "OD",
-						"CAT": 19,
-						"HANDLE": 274,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 19
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						19
-					],
-					"properties": {
-						"ST_NM": "Goa",
-						"ISO_CODE": "GA",
-						"CAT": 20,
-						"HANDLE": 275,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 20
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						20
-					],
-					"properties": {
-						"ST_NM": "Karnataka",
-						"ISO_CODE": "KA",
-						"CAT": 21,
-						"HANDLE": 276,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 21
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						21
-					],
-					"properties": {
-						"ST_NM": "Andhra Pradesh",
-						"ISO_CODE": "AP",
-						"CAT": 22,
-						"HANDLE": 277,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 22
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						22
-					],
-					"properties": {
-						"ST_NM": "Arunachal Pradesh",
-						"ISO_CODE": "AR",
-						"CAT": 23,
-						"HANDLE": 278,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 23
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						23
-					],
-					"properties": {
-						"ST_NM": "Assam",
-						"ISO_CODE": "AS",
-						"CAT": 24,
-						"HANDLE": 279,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 24
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						24
-					],
-					"properties": {
-						"ST_NM": "Nagaland",
-						"ISO_CODE": "NL",
-						"CAT": 25,
-						"HANDLE": 280,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 25
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						25
-					],
-					"properties": {
-						"ST_NM": "Meghalaya",
-						"ISO_CODE": "ML",
-						"CAT": 26,
-						"HANDLE": 281,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 26
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						26
-					],
-					"properties": {
-						"ST_NM": "Manipur",
-						"ISO_CODE": "MN",
-						"CAT": 27,
-						"HANDLE": 282,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 27
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						27
-					],
-					"properties": {
-						"ST_NM": "Tripura",
-						"ISO_CODE": "TR",
-						"CAT": 28,
-						"HANDLE": 283,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 28
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						28
-					],
-					"properties": {
-						"ST_NM": "Mizoram",
-						"ISO_CODE": "MZ",
-						"CAT": 29,
-						"HANDLE": 284,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 29
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						29
-					],
-					"properties": {
-						"ST_NM": "Kerala",
-						"ISO_CODE": "KL",
-						"CAT": 30,
-						"HANDLE": 285,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 30
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						30
-					],
-					"properties": {
-						"ST_NM": "Puducherry",
-						"ISO_CODE": "PY",
-						"CAT": 31,
-						"HANDLE": 286,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 31
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						31
-					],
-					"properties": {
-						"ST_NM": "Andaman & Nicobar",
-						"ISO_CODE": "AN",
-						"CAT": 32,
-						"HANDLE": 287,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 32
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						32
-					],
-					"properties": {
-						"ST_NM": "Tamil Nadu",
-						"ISO_CODE": "TN",
-						"CAT": 33,
-						"HANDLE": 288,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 33
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						33
-					],
-					"properties": {
-						"ST_NM": "Lakshadweep",
-						"ISO_CODE": "LD",
-						"CAT": 34,
-						"HANDLE": 289,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 34
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						34
-					],
-					"properties": {
-						"ST_NM": "West Bengal",
-						"ISO_CODE": "WB",
-						"CAT": 35,
-						"HANDLE": 290,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 35
-				},
-				{
-					"type": "LineString",
-					"arcs": [
-						35
-					],
-					"properties": {
-						"ST_NM": "Sikkim",
-						"ISO_CODE": "SK",
-						"CAT": 36,
-						"HANDLE": 291,
-						"BLOCK": -1,
-						"ETYPE": 25,
-						"SPACE": 0,
-						"LAYER": "0",
-						"OLINETYPE": "BYLAYER",
-						"LINETYPE": null,
-						"COLOR": "0,0,0,255",
-						"OCOLOR": 7,
-						"COLOR24": -1,
-						"TRANSPAREN": 0,
-						"LWEIGHT": -1,
-						"LINEWIDTH": 0,
-						"LTSCALE": 1,
-						"VISIBLE": 1,
-						"WIDTH": 0,
-						"THICKNESS": 0,
-						"EXT": "(3:0,0,1)"
-					},
-					"id": 36
-				}
-			]
-		}
-	}
+  "type": "Topology",
+  "arcs": [
+    [
+      [0, 605],
+      [100, 0],
+      [0, -100],
+      [-100, 0],
+      [0, 100]
+    ],
+    [
+      [0, 498],
+      [100, 0],
+      [0, -101],
+      [-100, 0],
+      [0, 101]
+    ],
+    [
+      [106, 654],
+      [100, 0],
+      [0, -98],
+      [-100, 0],
+      [0, 98]
+    ],
+    [
+      [157, 757],
+      [100, 0],
+      [0, -96],
+      [-100, 0],
+      [0, 96]
+    ],
+    [
+      [264, 757],
+      [100, 0],
+      [0, -96],
+      [-100, 0],
+      [0, 96]
+    ],
+    [
+      [371, 757],
+      [100, 0],
+      [0, -96],
+      [-100, 0],
+      [0, 96]
+    ],
+    [
+      [211, 857],
+      [100, 0],
+      [0, -93],
+      [-100, 0],
+      [0, 93]
+    ],
+    [
+      [318, 857],
+      [100, 0],
+      [0, -93],
+      [-100, 0],
+      [0, 93]
+    ],
+    [
+      [264, 955],
+      [100, 0],
+      [0, -91],
+      [-100, 0],
+      [0, 91]
+    ],
+    [
+      [212, 654],
+      [100, 0],
+      [0, -98],
+      [-100, 0],
+      [0, 98]
+    ],
+    [
+      [318, 654],
+      [100, 0],
+      [0, -98],
+      [-100, 0],
+      [0, 98]
+    ],
+    [
+      [424, 654],
+      [100, 0],
+      [0, -98],
+      [-100, 0],
+      [0, 98]
+    ],
+    [
+      [106, 549],
+      [100, 0],
+      [0, -101],
+      [-100, 0],
+      [0, 101]
+    ],
+    [
+      [212, 549],
+      [100, 0],
+      [0, -101],
+      [-100, 0],
+      [0, 101]
+    ],
+    [
+      [318, 549],
+      [100, 0],
+      [0, -101],
+      [-100, 0],
+      [0, 101]
+    ],
+    [
+      [424, 549],
+      [100, 0],
+      [0, -101],
+      [-100, 0],
+      [0, 101]
+    ],
+    [
+      [211, 441],
+      [100, 0],
+      [0, -102],
+      [-100, 0],
+      [0, 102]
+    ],
+    [
+      [317, 441],
+      [100, 0],
+      [0, -102],
+      [-100, 0],
+      [0, 102]
+    ],
+    [
+      [423, 441],
+      [100, 0],
+      [0, -102],
+      [-100, 0],
+      [0, 102]
+    ],
+    [
+      [105, 331],
+      [100, 0],
+      [0, -104],
+      [-100, 0],
+      [0, 104]
+    ],
+    [
+      [211, 331],
+      [100, 0],
+      [0, -104],
+      [-100, 0],
+      [0, 104]
+    ],
+    [
+      [317, 331],
+      [100, 0],
+      [0, -104],
+      [-100, 0],
+      [0, 104]
+    ],
+    [
+      [794, 781],
+      [100, 0],
+      [0, -95],
+      [-100, 0],
+      [0, 95]
+    ],
+    [
+      [688, 679],
+      [100, 0],
+      [0, -98],
+      [-100, 0],
+      [0, 98]
+    ],
+    [
+      [794, 679],
+      [100, 0],
+      [0, -98],
+      [-100, 0],
+      [0, 98]
+    ],
+    [
+      [687, 574],
+      [100, 0],
+      [0, -100],
+      [-100, 0],
+      [0, 100]
+    ],
+    [
+      [793, 574],
+      [100, 0],
+      [0, -100],
+      [-100, 0],
+      [0, 100]
+    ],
+    [
+      [687, 467],
+      [100, 0],
+      [0, -102],
+      [-100, 0],
+      [0, 102]
+    ],
+    [
+      [793, 467],
+      [100, 0],
+      [0, -102],
+      [-100, 0],
+      [0, 102]
+    ],
+    [
+      [211, 220],
+      [100, 0],
+      [0, -106],
+      [-100, 0],
+      [0, 106]
+    ],
+    [
+      [317, 220],
+      [100, 0],
+      [0, -106],
+      [-100, 0],
+      [0, 106]
+    ],
+    [
+      [794, 168],
+      [100, 0],
+      [0, -106],
+      [-100, 0],
+      [0, 106]
+    ],
+    [
+      [264, 107],
+      [100, 0],
+      [0, -107],
+      [-100, 0],
+      [0, 107]
+    ],
+    [
+      [0, 168],
+      [100, 0],
+      [0, -106],
+      [-100, 0],
+      [0, 106]
+    ],
+    [
+      [530, 549],
+      [100, 0],
+      [0, -101],
+      [-100, 0],
+      [0, 101]
+    ],
+    [
+      [581, 654],
+      [100, 0],
+      [0, -98],
+      [-100, 0],
+      [0, 98]
+    ]
+  ],
+  "transform": {
+    "scale": [0.027959309598015313, 0.02572167221468419],
+    "translate": [-10.930770626676427, 10.859884155174942]
+  },
+  "objects": {
+    "india-tile21": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "type": "LineString",
+          "arcs": [0],
+          "properties": {
+            "ST_NM": "Rajasthan",
+            "ISO_CODE": "RJ",
+            "CAT": 1,
+            "HANDLE": 256,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 1
+        },
+        {
+          "type": "LineString",
+          "arcs": [1],
+          "properties": {
+            "ST_NM": "Dadra and Nagar Haveli and Daman and Diu",
+            "ISO_CODE": "DH",
+            "CAT": 2,
+            "HANDLE": 257,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 2
+        },
+        {
+          "type": "LineString",
+          "arcs": [2],
+          "properties": {
+            "ST_NM": "Haryana",
+            "ISO_CODE": "HR",
+            "CAT": 3,
+            "HANDLE": 258,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 3
+        },
+        {
+          "type": "LineString",
+          "arcs": [3],
+          "properties": {
+            "ST_NM": "Punjab",
+            "ISO_CODE": "PB",
+            "CAT": 4,
+            "HANDLE": 259,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 4
+        },
+        {
+          "type": "LineString",
+          "arcs": [4],
+          "properties": {
+            "ST_NM": "Chandigarh",
+            "ISO_CODE": "CH",
+            "CAT": 5,
+            "HANDLE": 260,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 5
+        },
+        {
+          "type": "LineString",
+          "arcs": [5],
+          "properties": {
+            "ST_NM": "Uttarakhand",
+            "ISO_CODE": "UT",
+            "CAT": 6,
+            "HANDLE": 261,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 6
+        },
+        {
+          "type": "LineString",
+          "arcs": [6],
+          "properties": {
+            "ST_NM": "Himachal Pradesh",
+            "ISO_CODE": "HP",
+            "CAT": 7,
+            "HANDLE": 262,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 7
+        },
+        {
+          "type": "LineString",
+          "arcs": [7],
+          "properties": {
+            "ST_NM": "Ladakh",
+            "ISO_CODE": "LA",
+            "CAT": 8,
+            "HANDLE": 263,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 8
+        },
+        {
+          "type": "LineString",
+          "arcs": [8],
+          "properties": {
+            "ST_NM": "Jammu and Kashmir",
+            "ISO_CODE": "JK",
+            "CAT": 9,
+            "HANDLE": 264,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 9
+        },
+        {
+          "type": "LineString",
+          "arcs": [9],
+          "properties": {
+            "ST_NM": "Delhi",
+            "ISO_CODE": "DL",
+            "CAT": 10,
+            "HANDLE": 265,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 10
+        },
+        {
+          "type": "LineString",
+          "arcs": [10],
+          "properties": {
+            "ST_NM": "Uttar Pradesh",
+            "ISO_CODE": "UP",
+            "CAT": 11,
+            "HANDLE": 266,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 11
+        },
+        {
+          "type": "LineString",
+          "arcs": [11],
+          "properties": {
+            "ST_NM": "Bihar",
+            "ISO_CODE": "BR",
+            "CAT": 12,
+            "HANDLE": 267,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 12
+        },
+        {
+          "type": "LineString",
+          "arcs": [12],
+          "properties": {
+            "ST_NM": "Gujarat",
+            "ISO_CODE": "GJ",
+            "CAT": 13,
+            "HANDLE": 268,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 13
+        },
+        {
+          "type": "LineString",
+          "arcs": [13],
+          "properties": {
+            "ST_NM": "Madhya Pradesh",
+            "ISO_CODE": "MP",
+            "CAT": 14,
+            "HANDLE": 269,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 14
+        },
+        {
+          "type": "LineString",
+          "arcs": [14],
+          "properties": {
+            "ST_NM": "Chhattisgarh",
+            "ISO_CODE": "CT",
+            "CAT": 15,
+            "HANDLE": 270,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 15
+        },
+        {
+          "type": "LineString",
+          "arcs": [15],
+          "properties": {
+            "ST_NM": "Jharkhand",
+            "ISO_CODE": "JH",
+            "CAT": 16,
+            "HANDLE": 271,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 16
+        },
+        {
+          "type": "LineString",
+          "arcs": [16],
+          "properties": {
+            "ST_NM": "Maharashtra",
+            "ISO_CODE": "MH",
+            "CAT": 17,
+            "HANDLE": 272,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 17
+        },
+        {
+          "type": "LineString",
+          "arcs": [17],
+          "properties": {
+            "ST_NM": "Telangana",
+            "ISO_CODE": "TG",
+            "CAT": 18,
+            "HANDLE": 273,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 18
+        },
+        {
+          "type": "LineString",
+          "arcs": [18],
+          "properties": {
+            "ST_NM": "Odisha",
+            "ISO_CODE": "OR",
+            "CAT": 19,
+            "HANDLE": 274,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 19
+        },
+        {
+          "type": "LineString",
+          "arcs": [19],
+          "properties": {
+            "ST_NM": "Goa",
+            "ISO_CODE": "GA",
+            "CAT": 20,
+            "HANDLE": 275,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 20
+        },
+        {
+          "type": "LineString",
+          "arcs": [20],
+          "properties": {
+            "ST_NM": "Karnataka",
+            "ISO_CODE": "KA",
+            "CAT": 21,
+            "HANDLE": 276,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 21
+        },
+        {
+          "type": "LineString",
+          "arcs": [21],
+          "properties": {
+            "ST_NM": "Andhra Pradesh",
+            "ISO_CODE": "AP",
+            "CAT": 22,
+            "HANDLE": 277,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 22
+        },
+        {
+          "type": "LineString",
+          "arcs": [22],
+          "properties": {
+            "ST_NM": "Arunachal Pradesh",
+            "ISO_CODE": "AR",
+            "CAT": 23,
+            "HANDLE": 278,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 23
+        },
+        {
+          "type": "LineString",
+          "arcs": [23],
+          "properties": {
+            "ST_NM": "Assam",
+            "ISO_CODE": "AS",
+            "CAT": 24,
+            "HANDLE": 279,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 24
+        },
+        {
+          "type": "LineString",
+          "arcs": [24],
+          "properties": {
+            "ST_NM": "Nagaland",
+            "ISO_CODE": "NL",
+            "CAT": 25,
+            "HANDLE": 280,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 25
+        },
+        {
+          "type": "LineString",
+          "arcs": [25],
+          "properties": {
+            "ST_NM": "Meghalaya",
+            "ISO_CODE": "ML",
+            "CAT": 26,
+            "HANDLE": 281,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 26
+        },
+        {
+          "type": "LineString",
+          "arcs": [26],
+          "properties": {
+            "ST_NM": "Manipur",
+            "ISO_CODE": "MN",
+            "CAT": 27,
+            "HANDLE": 282,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 27
+        },
+        {
+          "type": "LineString",
+          "arcs": [27],
+          "properties": {
+            "ST_NM": "Tripura",
+            "ISO_CODE": "TR",
+            "CAT": 28,
+            "HANDLE": 283,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 28
+        },
+        {
+          "type": "LineString",
+          "arcs": [28],
+          "properties": {
+            "ST_NM": "Mizoram",
+            "ISO_CODE": "MZ",
+            "CAT": 29,
+            "HANDLE": 284,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 29
+        },
+        {
+          "type": "LineString",
+          "arcs": [29],
+          "properties": {
+            "ST_NM": "Kerala",
+            "ISO_CODE": "KL",
+            "CAT": 30,
+            "HANDLE": 285,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 30
+        },
+        {
+          "type": "LineString",
+          "arcs": [30],
+          "properties": {
+            "ST_NM": "Puducherry",
+            "ISO_CODE": "PY",
+            "CAT": 31,
+            "HANDLE": 286,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 31
+        },
+        {
+          "type": "LineString",
+          "arcs": [31],
+          "properties": {
+            "ST_NM": "Andaman and Nicobar Islands",
+            "ISO_CODE": "AN",
+            "CAT": 32,
+            "HANDLE": 287,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 32
+        },
+        {
+          "type": "LineString",
+          "arcs": [32],
+          "properties": {
+            "ST_NM": "Tamil Nadu",
+            "ISO_CODE": "TN",
+            "CAT": 33,
+            "HANDLE": 288,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 33
+        },
+        {
+          "type": "LineString",
+          "arcs": [33],
+          "properties": {
+            "ST_NM": "Lakshadweep",
+            "ISO_CODE": "LD",
+            "CAT": 34,
+            "HANDLE": 289,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 34
+        },
+        {
+          "type": "LineString",
+          "arcs": [34],
+          "properties": {
+            "ST_NM": "West Bengal",
+            "ISO_CODE": "WB",
+            "CAT": 35,
+            "HANDLE": 290,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 35
+        },
+        {
+          "type": "LineString",
+          "arcs": [35],
+          "properties": {
+            "ST_NM": "Sikkim",
+            "ISO_CODE": "SK",
+            "CAT": 36,
+            "HANDLE": 291,
+            "BLOCK": -1,
+            "ETYPE": 25,
+            "SPACE": 0,
+            "LAYER": "0",
+            "OLINETYPE": "BYLAYER",
+            "LINETYPE": null,
+            "COLOR": "0,0,0,255",
+            "OCOLOR": 7,
+            "COLOR24": -1,
+            "TRANSPAREN": 0,
+            "LWEIGHT": -1,
+            "LINEWIDTH": 0,
+            "LTSCALE": 1,
+            "VISIBLE": 1,
+            "WIDTH": 0,
+            "THICKNESS": 0,
+            "EXT": "(3:0,0,1)"
+          },
+          "id": 36
+        }
+      ]
+    }
+  }
 }
